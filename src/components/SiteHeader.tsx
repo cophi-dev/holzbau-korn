@@ -22,7 +22,9 @@ export function SiteHeader() {
     const onBreakpoint = () => desktop.matches && setOpen(false);
     window.addEventListener("keydown", onKey);
     desktop.addEventListener("change", onBreakpoint);
+    document.documentElement.style.overflow = "hidden";
     return () => {
+      document.documentElement.style.overflow = "";
       window.removeEventListener("keydown", onKey);
       desktop.removeEventListener("change", onBreakpoint);
     };
@@ -73,7 +75,7 @@ export function SiteHeader() {
         </button>
       </Container>
 
-      <div id={panelId} hidden={!open} className="border-t border-line/70 bg-paper md:hidden">
+      <div id={panelId} hidden={!open} className="h-[calc(100dvh-4rem)] overflow-y-auto border-t border-line/70 bg-paper md:hidden">
         <Container className="py-6">
           <nav aria-label="Hauptnavigation">
             <ul className="flex flex-col">

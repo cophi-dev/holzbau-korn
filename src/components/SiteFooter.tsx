@@ -7,7 +7,10 @@ export function SiteFooter() {
     <footer className="border-t border-line bg-paper py-8 text-sm text-ink-soft">
       <Container className="flex flex-col gap-3 md:flex-row md:items-center md:justify-between md:gap-6">
         <p className="text-ink">
-          {business.name} · {business.street}, {business.zip} {business.city}
+          {business.name} ·{" "}
+          <span className="whitespace-nowrap">
+            {business.street}, {business.zip} {business.city}
+          </span>
         </p>
         <ul className="flex flex-wrap items-center gap-x-5 gap-y-2">
           <li>

@@ -18,7 +18,7 @@ export function CallButton({ href, children, className = "" }: { href: string; c
       href={href}
       className={`group inline-flex items-center justify-between gap-4 rounded-[2px] bg-accent px-6 py-4 text-lg font-semibold text-ink transition-colors duration-300 hover:bg-accent-soft ${className}`}
     >
-      <span>{children}</span>
+      <span className="whitespace-nowrap">{children}</span>
       <Arrow className="transition-transform duration-300 ease-calm group-hover:translate-x-1" />
     </a>
   );
@@ -29,14 +29,14 @@ export function SectionHead({
   label,
   title,
   intro,
-  id,
+  titleId,
   tone = "light",
 }: {
   index: string;
   label: string;
   title: ReactNode;
   intro?: ReactNode;
-  id: string;
+  titleId: string;
   tone?: "light" | "dark";
 }) {
   const muted = tone === "dark" ? "text-paper/70" : "text-ink-soft";
@@ -50,7 +50,7 @@ export function SectionHead({
       </p>
       <div className="col-span-4 md:col-span-9">
         <h2
-          id={id}
+          id={titleId}
           className="max-w-[20ch] text-[clamp(2rem,4.4vw,3.4rem)] leading-[1.04] font-semibold tracking-[-0.025em] text-balance"
         >
           {title}

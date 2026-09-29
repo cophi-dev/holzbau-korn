@@ -107,6 +107,7 @@ function LightboxImage({ photo }: { photo: Photo }) {
       draggable={false}
       data-loaded={loaded}
       onLoad={() => setLoaded(true)}
+      style={{ backgroundColor: photo.color }}
       className="photo h-auto max-h-[calc(100dvh-13rem)] w-auto max-w-full object-contain select-none sm:max-h-[calc(100dvh-9rem)]"
     />
   );

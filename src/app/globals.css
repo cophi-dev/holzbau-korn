@@ -125,5 +125,5 @@ html.js .photo[data-loaded="false"] {
 }
 
 dialog::backdrop {
-  background: rgb(28 27 25 / 0.94);
+  background: var(--color-ink);
 }

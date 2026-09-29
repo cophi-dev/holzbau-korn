@@ -49,7 +49,7 @@ function Hero() {
         <div className="col-span-4 md:col-span-7">
           <p className="flex items-center gap-3 text-sm font-medium tracking-wide text-ink-soft">
             <span className="h-[2px] w-8 bg-accent" aria-hidden="true" />
-            {business.name} · {business.city}
+            Zimmerer · Holzbau · Möbelbau
           </p>
           <h1
             id="hero-title"
@@ -61,7 +61,7 @@ function Hero() {
             Ich bin {business.owner}. Seit 2015 führe ich den Familienbetrieb weiter – schon mein Vater war
             Zimmerermeister.
           </p>
-          <div className="mt-9 flex flex-col items-start gap-5 sm:flex-row sm:items-center sm:gap-8">
+          <div className="mt-9 flex flex-col items-start gap-5 sm:flex-row sm:items-center sm:gap-8 md:flex-col md:items-start md:gap-5 lg:flex-row lg:items-center lg:gap-8">
             <CallButton href={business.phoneHref} className="w-full sm:w-auto">
               Anrufen: {business.phoneDisplay}
             </CallButton>
@@ -80,10 +80,10 @@ function Hero() {
 
 function Work() {
   return (
-    <section aria-labelledby="arbeiten" className="scroll-mt-16 border-t border-line py-16 md:py-24">
+    <section id="arbeiten" aria-labelledby="arbeiten-titel" className="border-t border-line py-16 md:py-24">
       <Container>
         <SectionHead
-          id="arbeiten"
+          titleId="arbeiten-titel"
           index="01"
           label="Arbeiten"
           title="Einblick in meine Arbeit"
@@ -100,7 +100,7 @@ function Work() {
 
 function About() {
   return (
-    <section aria-labelledby="ueber-mich" className="border-t border-line bg-paper-deep/60 py-16 md:py-24">
+    <section id="ueber-mich" aria-labelledby="ueber-mich-titel" className="border-t border-line bg-paper-deep/60 py-16 md:py-24">
       <Container className="grid grid-cols-4 gap-x-5 gap-y-10 md:grid-cols-12 md:gap-x-6">
         <div className="col-span-4 md:col-span-5" data-reveal>
           <div className="relative aspect-[4/5] overflow-hidden" style={{ backgroundColor: portraitPhoto.color }}>
@@ -119,7 +119,7 @@ function About() {
             02 · Über mich
           </p>
           <h2
-            id="ueber-mich"
+            id="ueber-mich-titel"
             className="mt-5 max-w-[18ch] text-[clamp(2rem,4.4vw,3.4rem)] leading-[1.04] font-semibold tracking-[-0.025em] text-balance"
             data-reveal
           >
@@ -160,10 +160,10 @@ function About() {
 
 function Services() {
   return (
-    <section aria-labelledby="leistungen" className="border-t border-line py-16 md:py-24">
+    <section id="leistungen" aria-labelledby="leistungen-titel" className="border-t border-line py-16 md:py-24">
       <Container>
         <SectionHead
-          id="leistungen"
+          titleId="leistungen-titel"
           index="03"
           label="Leistungen"
           title="Mein Tätigkeitsbereich"
@@ -198,10 +198,10 @@ function Services() {
 
 function Contact() {
   return (
-    <section aria-labelledby="kontakt" className="bg-ink py-16 text-paper md:py-24">
+    <section id="kontakt" aria-labelledby="kontakt-titel" className="bg-ink py-16 text-paper md:py-24">
       <Container>
         <SectionHead
-          id="kontakt"
+          titleId="kontakt-titel"
           index="04"
           label="Kontakt"
           tone="dark"
