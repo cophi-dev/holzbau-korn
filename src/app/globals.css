@@ -1,0 +1,129 @@
+@import "tailwindcss";
+
+@theme {
+  --color-paper: #f6f4ef;
+  --color-paper-deep: #ece8df;
+  --color-ink: #1c1b19;
+  --color-ink-soft: #57534c;
+  --color-line: #d9d4c9;
+  --color-accent: #d9713a;
+  --color-accent-soft: #e48a55;
+
+  --font-sans: var(--font-inter-tight), ui-sans-serif, system-ui, sans-serif;
+
+  --ease-calm: cubic-bezier(0.2, 0.7, 0.2, 1);
+}
+
+html {
+  scroll-padding-top: 5rem;
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  background: var(--color-paper);
+  color: var(--color-ink);
+}
+
+::selection {
+  background: var(--color-accent);
+  color: var(--color-ink);
+}
+
+:focus-visible {
+  outline: 2px solid var(--color-ink);
+  outline-offset: 3px;
+}
+
+/* Underline that draws in from the left on hover/focus. */
+.link-draw {
+  background-image: linear-gradient(var(--color-accent), var(--color-accent));
+  background-position: 0 100%;
+  background-repeat: no-repeat;
+  background-size: 0% 2px;
+  padding-bottom: 2px;
+  transition: background-size 0.4s var(--ease-calm);
+}
+.link-draw:hover,
+.link-draw:focus-visible {
+  background-size: 100% 2px;
+}
+
+/* Same, but with a resting hairline for links inside running text. */
+.link-text {
+  background-image:
+    linear-gradient(var(--color-accent), var(--color-accent)),
+    linear-gradient(var(--color-line), var(--color-line));
+  background-position:
+    0 100%,
+    0 100%;
+  background-repeat: no-repeat;
+  background-size:
+    0% 2px,
+    100% 1px;
+  padding-bottom: 2px;
+  transition: background-size 0.4s var(--ease-calm);
+}
+.link-text:hover,
+.link-text:focus-visible {
+  background-size:
+    100% 2px,
+    100% 1px;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  html {
+    scroll-behavior: smooth;
+  }
+
+  html.js [data-reveal] {
+    opacity: 0;
+    transform: translate3d(0, 18px, 0);
+    transition:
+      opacity 0.9s var(--ease-calm),
+      transform 0.9s var(--ease-calm);
+    transition-delay: var(--reveal-delay, 0ms);
+  }
+  html.js [data-reveal][data-shown] {
+    opacity: 1;
+    transform: none;
+  }
+
+  .fade-in-late {
+    animation: fade-up 0.7s var(--ease-calm) both;
+    animation-delay: var(--reveal-delay, 0ms);
+  }
+
+  .photo {
+    transition:
+      opacity 0.6s var(--ease-calm),
+      transform 0.8s var(--ease-calm);
+  }
+}
+
+html.js .photo[data-loaded="false"] {
+  opacity: 0;
+}
+
+@keyframes fade-up {
+  from {
+    opacity: 0;
+    transform: translate3d(0, 14px, 0);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation: none !important;
+    transition: none !important;
+  }
+}
+
+dialog::backdrop {
+  background: var(--color-ink);
+}
