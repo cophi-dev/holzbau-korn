@@ -1,0 +1,1322 @@
+[
+ {
+  "src": "/arbeiten/holzbau/01-dachstuhl-mit-dachfenstern-von-innen.jpg",
+  "alt": "Dachstuhl mit Dachfenstern von innen",
+  "category": "holzbau",
+  "width": 2000,
+  "height": 1125,
+  "color": "#f8f8f8"
+ },
+ {
+  "src": "/arbeiten/holzbau/02-grosse-terrassenueberdachung-aus-holz.jpg",
+  "alt": "Große Terrassenüberdachung aus Holz",
+  "category": "holzbau",
+  "width": 1000,
+  "height": 750,
+  "color": "#b8c8d8"
+ },
+ {
+  "src": "/arbeiten/holzbau/03-holztragwerk-mit-kopfbaendern-in-einem-innenraum.jpg",
+  "alt": "Holztragwerk mit Kopfbändern in einem Innenraum",
+  "category": "holzbau",
+  "width": 1600,
+  "height": 1200,
+  "color": "#181818"
+ },
+ {
+  "src": "/arbeiten/holzbau/04-dacheindeckung-an-einem-fachwerkhaus.jpg",
+  "alt": "Dacheindeckung an einem Fachwerkhaus",
+  "category": "holzbau",
+  "width": 1820,
+  "height": 1023,
+  "color": "#080808"
+ },
+ {
+  "src": "/arbeiten/holzbau/05-carport-aus-holz-neben-einem-wohnhaus.jpg",
+  "alt": "Carport aus Holz neben einem Wohnhaus",
+  "category": "holzbau",
+  "width": 1000,
+  "height": 750,
+  "color": "#b8b8b8"
+ },
+ {
+  "src": "/arbeiten/holzbau/06-gartenhaus-mit-holzfassade-und-flachdach.jpg",
+  "alt": "Gartenhaus mit Holzfassade und Flachdach",
+  "category": "holzbau",
+  "width": 1000,
+  "height": 750,
+  "color": "#988888"
+ },
+ {
+  "src": "/arbeiten/holzbau/07-gartenpavillon-von-innen-sichtbare-dachkonstrukt.jpg",
+  "alt": "Gartenpavillon von innen: sichtbare Dachkonstruktion aus Holz",
+  "category": "holzbau",
+  "width": 1706,
+  "height": 1280,
+  "color": "#c87838"
+ },
+ {
+  "src": "/arbeiten/holzbau/08-hauseingang-mit-holzverkleidung-und-vordach.jpg",
+  "alt": "Hauseingang mit Holzverkleidung und Vordach",
+  "category": "holzbau",
+  "width": 2000,
+  "height": 1887,
+  "color": "#986828"
+ },
+ {
+  "src": "/arbeiten/holzbau/09-weisse-pergola-mit-geschwungenen-kopfbaendern.jpg",
+  "alt": "Weiße Pergola mit geschwungenen Kopfbändern",
+  "category": "holzbau",
+  "width": 2000,
+  "height": 1125,
+  "color": "#788898"
+ },
+ {
+  "src": "/arbeiten/holzbau/10-deckenbalkensanierung.jpg",
+  "alt": "Deckenbalkensanierung",
+  "category": "holzbau",
+  "width": 1280,
+  "height": 1706,
+  "color": "#787878"
+ },
+ {
+  "src": "/arbeiten/holzbau/11-grosse-holztore-an-einer-halle.jpg",
+  "alt": "Große Holztore an einer Halle",
+  "category": "holzbau",
+  "width": 2000,
+  "height": 1125,
+  "color": "#182818"
+ },
+ {
+  "src": "/arbeiten/holzbau/12-vordach-aus-holz-seitenansicht.jpg",
+  "alt": "Vordach aus Holz, Seitenansicht",
+  "category": "holzbau",
+  "width": 1500,
+  "height": 2000,
+  "color": "#c8d8f8"
+ },
+ {
+  "src": "/arbeiten/holzbau/13-vordach-aus-holz-ueber-einem-hauseingang.jpg",
+  "alt": "Vordach aus Holz über einem Hauseingang",
+  "category": "holzbau",
+  "width": 2000,
+  "height": 1500,
+  "color": "#a8a898"
+ },
+ {
+  "src": "/arbeiten/holzbau/14-balkon-mit-holzdielenboden.jpg",
+  "alt": "Balkon mit Holzdielenboden",
+  "category": "holzbau",
+  "width": 1706,
+  "height": 1280,
+  "color": "#b8b8c8"
+ },
+ {
+  "src": "/arbeiten/holzbau/15-carport-aus-holz-an-einem-wohnhaus.jpg",
+  "alt": "Carport aus Holz an einem Wohnhaus",
+  "category": "holzbau",
+  "width": 640,
+  "height": 480,
+  "color": "#282828"
+ },
+ {
+  "src": "/arbeiten/holzbau/16-gartenpavillon-mit-walmdach-auf-einer-holzterras.jpg",
+  "alt": "Gartenpavillon mit Walmdach auf einer Holzterrasse",
+  "category": "holzbau",
+  "width": 1706,
+  "height": 1280,
+  "color": "#f8f8f8"
+ },
+ {
+  "src": "/arbeiten/holzbau/17-zweifluegeliges-holztor-in-einer-hofeinfahrt.jpg",
+  "alt": "Zweiflügeliges Holztor in einer Hofeinfahrt",
+  "category": "holzbau",
+  "width": 1706,
+  "height": 1280,
+  "color": "#986848"
+ },
+ {
+  "src": "/arbeiten/holzbau/18-balkon-mit-holzgelaender-an-einem-giebelhaus.jpg",
+  "alt": "Balkon mit Holzgeländer an einem Giebelhaus",
+  "category": "holzbau",
+  "width": 1706,
+  "height": 1280,
+  "color": "#d8f8f8"
+ },
+ {
+  "src": "/arbeiten/holzbau/19-holzsteg-mit-gelaender-am-wasser.jpg",
+  "alt": "Holzsteg mit Geländer am Wasser",
+  "category": "holzbau",
+  "width": 627,
+  "height": 606,
+  "color": "#d8d8e8"
+ },
+ {
+  "src": "/arbeiten/holzbau/20-fahrradschuppen-mit-stuelpschalung.jpg",
+  "alt": "Fahrradschuppen mit Stülpschalung",
+  "category": "holzbau",
+  "width": 1820,
+  "height": 1023,
+  "color": "#e8e8c8"
+ },
+ {
+  "src": "/arbeiten/holzbau/21-einlattung-des-daches-an-einem-fachwerkhaus.jpg",
+  "alt": "Einlattung des Daches an einem Fachwerkhaus",
+  "category": "holzbau",
+  "width": 1820,
+  "height": 1023,
+  "color": "#181818"
+ },
+ {
+  "src": "/arbeiten/holzbau/22-geraetehaus-aus-holz.jpg",
+  "alt": "Gerätehaus aus Holz",
+  "category": "holzbau",
+  "width": 1600,
+  "height": 1200,
+  "color": "#b88868"
+ },
+ {
+  "src": "/arbeiten/holzbau/23-terrasse-aus-holzdielen-im-garten.jpg",
+  "alt": "Terrasse aus Holzdielen im Garten",
+  "category": "holzbau",
+  "width": 720,
+  "height": 405,
+  "color": "#080808"
+ },
+ {
+  "src": "/arbeiten/holzbau/24-terrassentreppe-aus-holz.jpg",
+  "alt": "Terrassentreppe aus Holz",
+  "category": "holzbau",
+  "width": 1023,
+  "height": 1820,
+  "color": "#181818"
+ },
+ {
+  "src": "/arbeiten/holzbau/25-fensterladen-aus-holz.jpg",
+  "alt": "Fensterladen aus Holz",
+  "category": "holzbau",
+  "width": 1023,
+  "height": 1820,
+  "color": "#b8a898"
+ },
+ {
+  "src": "/arbeiten/holzbau/26-tuervordach-aus-holz-ueber-einem-hauseingang.jpg",
+  "alt": "Türvordach aus Holz über einem Hauseingang",
+  "category": "holzbau",
+  "width": 720,
+  "height": 1280,
+  "color": "#e8e8d8"
+ },
+ {
+  "src": "/arbeiten/holzbau/27-balkenlage-mit-daemmung-zwischen-den-balken.jpg",
+  "alt": "Balkenlage mit Dämmung zwischen den Balken",
+  "category": "holzbau",
+  "width": 1820,
+  "height": 1023,
+  "color": "#282818"
+ },
+ {
+  "src": "/arbeiten/holzbau/28-vordach-mit-vsg-glas.jpg",
+  "alt": "Vordach mit VSG-Glas",
+  "category": "holzbau",
+  "width": 1820,
+  "height": 1023,
+  "color": "#f8f8f8"
+ },
+ {
+  "src": "/arbeiten/holzbau/29-kellerverschlag-aus-holzlatten.jpg",
+  "alt": "Kellerverschlag aus Holzlatten",
+  "category": "holzbau",
+  "width": 1125,
+  "height": 2000,
+  "color": "#383818"
+ },
+ {
+  "src": "/arbeiten/holzbau/30-hochterrasse-aus-holz-mit-treppe.jpg",
+  "alt": "Hochterrasse aus Holz mit Treppe",
+  "category": "holzbau",
+  "width": 2000,
+  "height": 1125,
+  "color": "#98a8b8"
+ },
+ {
+  "src": "/arbeiten/holzbau/31-hochterrasse-aus-holz-mit-gelaender.jpg",
+  "alt": "Hochterrasse aus Holz mit Geländer",
+  "category": "holzbau",
+  "width": 2000,
+  "height": 1125,
+  "color": "#e8e8e8"
+ },
+ {
+  "src": "/arbeiten/holzbau/32-treppe-aus-holz.jpg",
+  "alt": "Treppe aus Holz",
+  "category": "holzbau",
+  "width": 1125,
+  "height": 2000,
+  "color": "#d8e8e8"
+ },
+ {
+  "src": "/arbeiten/holzbau/33-weisse-holzueberdachung-vor-einer-garage.jpg",
+  "alt": "Weiße Holzüberdachung vor einer Garage",
+  "category": "holzbau",
+  "width": 2000,
+  "height": 1125,
+  "color": "#080808"
+ },
+ {
+  "src": "/arbeiten/holzbau/34-pergola-aus-holz-im-garten.jpg",
+  "alt": "Pergola aus Holz im Garten",
+  "category": "holzbau",
+  "width": 2000,
+  "height": 1125,
+  "color": "#181818"
+ },
+ {
+  "src": "/arbeiten/holzbau/35-gartentor-aus-holzlatten.jpg",
+  "alt": "Gartentor aus Holzlatten",
+  "category": "holzbau",
+  "width": 2000,
+  "height": 1125,
+  "color": "#684838"
+ },
+ {
+  "src": "/arbeiten/holzbau/36-ueberdachte-hochterrasse-an-einem-fachwerkhaus.jpg",
+  "alt": "Überdachte Hochterrasse an einem Fachwerkhaus",
+  "category": "holzbau",
+  "width": 2000,
+  "height": 1125,
+  "color": "#d8d8d8"
+ },
+ {
+  "src": "/arbeiten/holzbau/37-pergola-aus-dunklen-holzbalken.jpg",
+  "alt": "Pergola aus dunklen Holzbalken",
+  "category": "holzbau",
+  "width": 2000,
+  "height": 1125,
+  "color": "#181818"
+ },
+ {
+  "src": "/arbeiten/holzbau/38-holzstaenderwand-beim-innenausbau.jpg",
+  "alt": "Holzständerwand beim Innenausbau",
+  "category": "holzbau",
+  "width": 1125,
+  "height": 2000,
+  "color": "#484848"
+ },
+ {
+  "src": "/arbeiten/holzbau/39-weisse-terrassenueberdachung-mit-glasdach.jpg",
+  "alt": "Weiße Terrassenüberdachung mit Glasdach",
+  "category": "holzbau",
+  "width": 1200,
+  "height": 1600,
+  "color": "#e8e8f8"
+ },
+ {
+  "src": "/arbeiten/holzbau/40-weisse-terrassenueberdachung-an-einem-einfamilie.jpg",
+  "alt": "Weiße Terrassenüberdachung an einem Einfamilienhaus",
+  "category": "holzbau",
+  "width": 1600,
+  "height": 1200,
+  "color": "#484848"
+ },
+ {
+  "src": "/arbeiten/holzbau/41-weisse-terrassenueberdachung-ueber-einem-sitzpla.jpg",
+  "alt": "Weiße Terrassenüberdachung über einem Sitzplatz",
+  "category": "holzbau",
+  "width": 1125,
+  "height": 2000,
+  "color": "#584838"
+ },
+ {
+  "src": "/arbeiten/holzbau/42-holzterrasse-auf-einer-dachterrasse.jpg",
+  "alt": "Holzterrasse auf einer Dachterrasse",
+  "category": "holzbau",
+  "width": 1125,
+  "height": 2000,
+  "color": "#281818"
+ },
+ {
+  "src": "/arbeiten/holzbau/43-terrassendielen-und-unterkonstruktion-im-garten.jpg",
+  "alt": "Terrassendielen und Unterkonstruktion im Garten",
+  "category": "holzbau",
+  "width": 2000,
+  "height": 1125,
+  "color": "#080808"
+ },
+ {
+  "src": "/arbeiten/holzbau/44-weisse-terrassenueberdachung-an-einem-gelben-hau.jpg",
+  "alt": "Weiße Terrassenüberdachung an einem gelben Haus",
+  "category": "holzbau",
+  "width": 1280,
+  "height": 720,
+  "color": "#785828"
+ },
+ {
+  "src": "/arbeiten/holzbau/45-dachueberstand-mit-holzschalung.jpg",
+  "alt": "Dachüberstand mit Holzschalung",
+  "category": "holzbau",
+  "width": 2000,
+  "height": 1125,
+  "color": "#080808"
+ },
+ {
+  "src": "/arbeiten/holzbau/46-sichtschutzzaun-aus-holz.jpg",
+  "alt": "Sichtschutzzaun aus Holz",
+  "category": "holzbau",
+  "width": 2000,
+  "height": 1125,
+  "color": "#080808"
+ },
+ {
+  "src": "/arbeiten/holzbau/47-unterkonstruktion-aus-holzbalken-im-aufbau.jpg",
+  "alt": "Unterkonstruktion aus Holzbalken im Aufbau",
+  "category": "holzbau",
+  "width": 2000,
+  "height": 1125,
+  "color": "#080808"
+ },
+ {
+  "src": "/arbeiten/holzbau/48-hell-gestrichenes-geraetehaus-mit-tuer-und-fenst.jpg",
+  "alt": "Hell gestrichenes Gerätehaus mit Tür und Fenster",
+  "category": "holzbau",
+  "width": 1600,
+  "height": 900,
+  "color": "#b8b8b8"
+ },
+ {
+  "src": "/arbeiten/holzbau/49-holztor-zwischen-zwei-hauswaenden.jpg",
+  "alt": "Holztor zwischen zwei Hauswänden",
+  "category": "holzbau",
+  "width": 900,
+  "height": 1600,
+  "color": "#383838"
+ },
+ {
+  "src": "/arbeiten/holzbau/50-terrassenueberdachung-aus-holz-vor-einem-einfami.jpg",
+  "alt": "Terrassenüberdachung aus Holz vor einem Einfamilienhaus",
+  "category": "holzbau",
+  "width": 1600,
+  "height": 900,
+  "color": "#081808"
+ },
+ {
+  "src": "/arbeiten/holzbau/51-terrassenueberdachung-mit-dunklen-holzbalken.jpg",
+  "alt": "Terrassenüberdachung mit dunklen Holzbalken",
+  "category": "holzbau",
+  "width": 1600,
+  "height": 900,
+  "color": "#887868"
+ },
+ {
+  "src": "/arbeiten/holzbau/52-schuppen-mit-grauer-holzverkleidung.jpg",
+  "alt": "Schuppen mit grauer Holzverkleidung",
+  "category": "holzbau",
+  "width": 1328,
+  "height": 747,
+  "color": "#a8a8a8"
+ },
+ {
+  "src": "/arbeiten/holzbau/53-unterstand-mit-grau-verkleideter-seitenwand.jpg",
+  "alt": "Unterstand mit grau verkleideter Seitenwand",
+  "category": "holzbau",
+  "width": 1328,
+  "height": 747,
+  "color": "#f8f8f8"
+ },
+ {
+  "src": "/arbeiten/holzbau/54-zweifluegeliges-graues-holztor-in-einer-hofmauer.jpg",
+  "alt": "Zweiflügeliges graues Holztor in einer Hofmauer",
+  "category": "holzbau",
+  "width": 1328,
+  "height": 747,
+  "color": "#788898"
+ },
+ {
+  "src": "/arbeiten/holzbau/55-kleiner-anbau-mit-pultdach.jpg",
+  "alt": "Kleiner Anbau mit Pultdach",
+  "category": "holzbau",
+  "width": 1600,
+  "height": 900,
+  "color": "#383838"
+ },
+ {
+  "src": "/arbeiten/holzbau/56-freigelegte-deckenbalken-bei-der-sanierung.jpg",
+  "alt": "Freigelegte Deckenbalken bei der Sanierung",
+  "category": "holzbau",
+  "width": 1600,
+  "height": 900,
+  "color": "#989898"
+ },
+ {
+  "src": "/arbeiten/holzbau/57-terrassenueberdachung-aus-holz-im-garten.jpg",
+  "alt": "Terrassenüberdachung aus Holz im Garten",
+  "category": "holzbau",
+  "width": 1600,
+  "height": 900,
+  "color": "#b8a898"
+ },
+ {
+  "src": "/arbeiten/holzbau/58-weisse-terrassenueberdachung-von-unten.jpg",
+  "alt": "Weiße Terrassenüberdachung von unten",
+  "category": "holzbau",
+  "width": 2000,
+  "height": 1125,
+  "color": "#c8c8c8"
+ },
+ {
+  "src": "/arbeiten/holzbau/59-graue-terrassenueberdachung-vor-einem-einfamilie.jpg",
+  "alt": "Graue Terrassenüberdachung vor einem Einfamilienhaus",
+  "category": "holzbau",
+  "width": 2000,
+  "height": 1125,
+  "color": "#181818"
+ },
+ {
+  "src": "/arbeiten/holzbau/60-weisse-terrassenueberdachung-pfosten-und-sparren.jpg",
+  "alt": "Weiße Terrassenüberdachung: Pfosten und Sparren",
+  "category": "holzbau",
+  "width": 2000,
+  "height": 1125,
+  "color": "#988878"
+ },
+ {
+  "src": "/arbeiten/holzbau/61-graue-terrassenueberdachung-an-einem-klinkerhaus.jpg",
+  "alt": "Graue Terrassenüberdachung an einem Klinkerhaus",
+  "category": "holzbau",
+  "width": 2000,
+  "height": 1125,
+  "color": "#383838"
+ },
+ {
+  "src": "/arbeiten/holzbau/62-terrassenueberdachung-mit-glasdach-blick-von-obe.jpg",
+  "alt": "Terrassenüberdachung mit Glasdach, Blick von oben",
+  "category": "holzbau",
+  "width": 2000,
+  "height": 1125,
+  "color": "#c8c8c8"
+ },
+ {
+  "src": "/arbeiten/holzbau/63-weisse-terrassenueberdachung-an-einem-bungalow.jpg",
+  "alt": "Weiße Terrassenüberdachung an einem Bungalow",
+  "category": "holzbau",
+  "width": 2000,
+  "height": 1125,
+  "color": "#a8a8a8"
+ },
+ {
+  "src": "/arbeiten/holzbau/64-terrassenueberdachung-aus-lasiertem-holz.jpg",
+  "alt": "Terrassenüberdachung aus lasiertem Holz",
+  "category": "holzbau",
+  "width": 2000,
+  "height": 1125,
+  "color": "#a8a8a8"
+ },
+ {
+  "src": "/arbeiten/holzbau/65-veranda-mit-weissem-holzgelaender-an-einem-bunga.jpg",
+  "alt": "Veranda mit weißem Holzgeländer an einem Bungalow",
+  "category": "holzbau",
+  "width": 2000,
+  "height": 1125,
+  "color": "#98a8a8"
+ },
+ {
+  "src": "/arbeiten/holzbau/66-sichtschutzwand-aus-holz-im-garten.jpg",
+  "alt": "Sichtschutzwand aus Holz im Garten",
+  "category": "holzbau",
+  "width": 1600,
+  "height": 900,
+  "color": "#f8f8f8"
+ },
+ {
+  "src": "/arbeiten/holzbau/67-garage-mit-horizontaler-holzverkleidung.jpg",
+  "alt": "Garage mit horizontaler Holzverkleidung",
+  "category": "holzbau",
+  "width": 1600,
+  "height": 900,
+  "color": "#e8f8f8"
+ },
+ {
+  "src": "/arbeiten/holzbau/68-weisse-terrassenueberdachung-mit-glasdach.jpg",
+  "alt": "Weiße Terrassenüberdachung mit Glasdach",
+  "category": "holzbau",
+  "width": 2000,
+  "height": 1125,
+  "color": "#b8b8b8"
+ },
+ {
+  "src": "/arbeiten/holzbau/69-terrassenueberdachung-mit-glasdach-im-garten.jpg",
+  "alt": "Terrassenüberdachung mit Glasdach im Garten",
+  "category": "holzbau",
+  "width": 2000,
+  "height": 1125,
+  "color": "#e8f8f8"
+ },
+ {
+  "src": "/arbeiten/holzbau/70-ueberdachung-mit-glasdach-ueber-einer-terrasse.jpg",
+  "alt": "Überdachung mit Glasdach über einer Terrasse",
+  "category": "holzbau",
+  "width": 1080,
+  "height": 1440,
+  "color": "#f8f8f8"
+ },
+ {
+  "src": "/arbeiten/holzbau/71-terrassenueberdachung-aus-holz-mit-stegplatten.jpg",
+  "alt": "Terrassenüberdachung aus Holz mit Stegplatten",
+  "category": "holzbau",
+  "width": 2000,
+  "height": 1500,
+  "color": "#4878b8"
+ },
+ {
+  "src": "/arbeiten/holzbau/72-unterstand-mit-holzrueckwand.jpg",
+  "alt": "Unterstand mit Holzrückwand",
+  "category": "holzbau",
+  "width": 2000,
+  "height": 1500,
+  "color": "#887868"
+ },
+ {
+  "src": "/arbeiten/holzbau/73-brunnen-mit-holzdach.jpg",
+  "alt": "Brunnen mit Holzdach",
+  "category": "holzbau",
+  "width": 1500,
+  "height": 2000,
+  "color": "#88b8e8"
+ },
+ {
+  "src": "/arbeiten/holzbau/74-holzterrasse-vor-einem-neubau.jpg",
+  "alt": "Holzterrasse vor einem Neubau",
+  "category": "holzbau",
+  "width": 2000,
+  "height": 1500,
+  "color": "#c8d8e8"
+ },
+ {
+  "src": "/arbeiten/holzbau/75-terrassenbelag-auf-einer-dachterrasse.jpg",
+  "alt": "Terrassenbelag auf einer Dachterrasse",
+  "category": "holzbau",
+  "width": 2000,
+  "height": 1500,
+  "color": "#687888"
+ },
+ {
+  "src": "/arbeiten/holzbau/76-holzterrasse-detail-der-dielen.jpg",
+  "alt": "Holzterrasse, Detail der Dielen",
+  "category": "holzbau",
+  "width": 1500,
+  "height": 2000,
+  "color": "#b8b8b8"
+ },
+ {
+  "src": "/arbeiten/holzbau/77-garage-mit-holzverkleidung.jpg",
+  "alt": "Garage mit Holzverkleidung",
+  "category": "holzbau",
+  "width": 2000,
+  "height": 1500,
+  "color": "#b8a898"
+ },
+ {
+  "src": "/arbeiten/holzbau/78-geraetehaus-aus-holz-mit-offener-tuer.jpg",
+  "alt": "Gerätehaus aus Holz mit offener Tür",
+  "category": "holzbau",
+  "width": 2000,
+  "height": 1500,
+  "color": "#b89858"
+ },
+ {
+  "src": "/arbeiten/holzbau/79-pergola-aus-holz-ueber-einem-sitzplatz.jpg",
+  "alt": "Pergola aus Holz über einem Sitzplatz",
+  "category": "holzbau",
+  "width": 2000,
+  "height": 1500,
+  "color": "#484848"
+ },
+ {
+  "src": "/arbeiten/holzbau/80-anbau-mit-grauer-holzverkleidung-und-dachueberst.jpg",
+  "alt": "Anbau mit grauer Holzverkleidung und Dachüberstand",
+  "category": "holzbau",
+  "width": 2000,
+  "height": 1500,
+  "color": "#f8f8f8"
+ },
+ {
+  "src": "/arbeiten/holzbau/81-hell-gestrichene-brettertuer-in-einer-mauer.jpg",
+  "alt": "Hell gestrichene Brettertür in einer Mauer",
+  "category": "holzbau",
+  "width": 1500,
+  "height": 2000,
+  "color": "#c88878"
+ },
+ {
+  "src": "/arbeiten/holzbau/82-terrassenueberdachung-mit-stegplatten-ueber-eine.jpg",
+  "alt": "Terrassenüberdachung mit Stegplatten über einer Holzterrasse",
+  "category": "holzbau",
+  "width": 2000,
+  "height": 1500,
+  "color": "#787878"
+ },
+ {
+  "src": "/arbeiten/holzbau/83-graue-terrassenueberdachung-im-garten.jpg",
+  "alt": "Graue Terrassenüberdachung im Garten",
+  "category": "holzbau",
+  "width": 2000,
+  "height": 1500,
+  "color": "#c8c8c8"
+ },
+ {
+  "src": "/arbeiten/holzbau/84-weisses-hoftor-mit-zaun.jpg",
+  "alt": "Weißes Hoftor mit Zaun",
+  "category": "holzbau",
+  "width": 1600,
+  "height": 900,
+  "color": "#989898"
+ },
+ {
+  "src": "/arbeiten/holzbau/85-carport-mit-gruen-gestrichenen-holzstuetzen.jpg",
+  "alt": "Carport mit grün gestrichenen Holzstützen",
+  "category": "holzbau",
+  "width": 1000,
+  "height": 750,
+  "color": "#b8b8b8"
+ },
+ {
+  "src": "/arbeiten/holzbau/86-sichtschutzwand-aus-holz-auf-einer-dachterrasse.jpg",
+  "alt": "Sichtschutzwand aus Holz auf einer Dachterrasse",
+  "category": "holzbau",
+  "width": 1000,
+  "height": 750,
+  "color": "#786858"
+ },
+ {
+  "src": "/arbeiten/holzbau/87-ueberdachte-veranda-mit-holzgelaender.jpg",
+  "alt": "Überdachte Veranda mit Holzgeländer",
+  "category": "holzbau",
+  "width": 1000,
+  "height": 750,
+  "color": "#5888c8"
+ },
+ {
+  "src": "/arbeiten/holzbau/88-gartenhaus-mit-holzfassade-und-rundem-fenster.jpg",
+  "alt": "Gartenhaus mit Holzfassade und rundem Fenster",
+  "category": "holzbau",
+  "width": 1000,
+  "height": 750,
+  "color": "#987868"
+ },
+ {
+  "src": "/arbeiten/holzbau/89-carport-mit-geraeteraum.jpg",
+  "alt": "Carport mit Geräteraum",
+  "category": "holzbau",
+  "width": 1000,
+  "height": 750,
+  "color": "#c8c8d8"
+ },
+ {
+  "src": "/arbeiten/holzbau/90-balkon-auf-einer-holzkonstruktion.jpg",
+  "alt": "Balkon auf einer Holzkonstruktion",
+  "category": "holzbau",
+  "width": 1000,
+  "height": 750,
+  "color": "#78a8e8"
+ },
+ {
+  "src": "/arbeiten/holzbau/91-ueberdachung-fuer-einen-wohnwagen.jpg",
+  "alt": "Überdachung für einen Wohnwagen",
+  "category": "holzbau",
+  "width": 750,
+  "height": 1000,
+  "color": "#687828"
+ },
+ {
+  "src": "/arbeiten/holzbau/92-holzterrasse-auf-unterkonstruktion-vor-einem-hau.jpg",
+  "alt": "Holzterrasse auf Unterkonstruktion vor einem Haus",
+  "category": "holzbau",
+  "width": 1000,
+  "height": 750,
+  "color": "#d8d8d8"
+ },
+ {
+  "src": "/arbeiten/holzbau/93-lange-terrassenueberdachung-an-einer-hauswand.jpg",
+  "alt": "Lange Terrassenüberdachung an einer Hauswand",
+  "category": "holzbau",
+  "width": 1000,
+  "height": 750,
+  "color": "#585868"
+ },
+ {
+  "src": "/arbeiten/holzbau/94-gartenhaus-mit-holzfassade.jpg",
+  "alt": "Gartenhaus mit Holzfassade",
+  "category": "holzbau",
+  "width": 1000,
+  "height": 750,
+  "color": "#98b8d8"
+ },
+ {
+  "src": "/arbeiten/moebelbau/01-sideboard-mit-glasfaechern-und-schmiedebeschlaeg.jpg",
+  "alt": "Sideboard mit Glasfächern und Schmiedebeschlägen",
+  "category": "moebelbau",
+  "width": 1600,
+  "height": 1200,
+  "color": "#786858"
+ },
+ {
+  "src": "/arbeiten/moebelbau/02-tisch-aus-massiver-eiche-mit-bank.jpg",
+  "alt": "Tisch aus massiver Eiche mit Bank",
+  "category": "moebelbau",
+  "width": 1024,
+  "height": 768,
+  "color": "#683818"
+ },
+ {
+  "src": "/arbeiten/moebelbau/03-himmelbett-aus-holzbalken.jpg",
+  "alt": "Himmelbett aus Holzbalken",
+  "category": "moebelbau",
+  "width": 1024,
+  "height": 768,
+  "color": "#180808"
+ },
+ {
+  "src": "/arbeiten/moebelbau/04-landhaustisch.jpg",
+  "alt": "Landhaustisch",
+  "category": "moebelbau",
+  "width": 1600,
+  "height": 1382,
+  "color": "#483838"
+ },
+ {
+  "src": "/arbeiten/moebelbau/05-garderobe-mit-spiegelrahmen-aus-altholz.jpg",
+  "alt": "Garderobe mit Spiegelrahmen aus Altholz",
+  "category": "moebelbau",
+  "width": 1600,
+  "height": 1200,
+  "color": "#f8f8f8"
+ },
+ {
+  "src": "/arbeiten/moebelbau/06-tv-moebel-aus-holz-und-schwarz.jpg",
+  "alt": "TV-Möbel aus Holz und Schwarz",
+  "category": "moebelbau",
+  "width": 1024,
+  "height": 768,
+  "color": "#080808"
+ },
+ {
+  "src": "/arbeiten/moebelbau/07-bettgestell-mit-kopfteil-aus-massivholz.jpg",
+  "alt": "Bettgestell mit Kopfteil aus Massivholz",
+  "category": "moebelbau",
+  "width": 1600,
+  "height": 898,
+  "color": "#b89868"
+ },
+ {
+  "src": "/arbeiten/moebelbau/08-garderobe-aus-holz.jpg",
+  "alt": "Garderobe aus Holz",
+  "category": "moebelbau",
+  "width": 2000,
+  "height": 1125,
+  "color": "#c8d8d8"
+ },
+ {
+  "src": "/arbeiten/moebelbau/09-bogenwippe-aus-holz.jpg",
+  "alt": "Bogenwippe aus Holz",
+  "category": "moebelbau",
+  "width": 2000,
+  "height": 1125,
+  "color": "#a8a8a8"
+ },
+ {
+  "src": "/arbeiten/moebelbau/10-offenes-schranksystem.jpg",
+  "alt": "Offenes Schranksystem",
+  "category": "moebelbau",
+  "width": 1200,
+  "height": 1600,
+  "color": "#181818"
+ },
+ {
+  "src": "/arbeiten/moebelbau/11-obstkisten-tv-board.jpg",
+  "alt": "Obstkisten-TV-Board",
+  "category": "moebelbau",
+  "width": 2000,
+  "height": 1125,
+  "color": "#080808"
+ },
+ {
+  "src": "/arbeiten/moebelbau/12-waschtisch-aus-holz-mit-aufsatzbecken.jpg",
+  "alt": "Waschtisch aus Holz mit Aufsatzbecken",
+  "category": "moebelbau",
+  "width": 1219,
+  "height": 2000,
+  "color": "#080808"
+ },
+ {
+  "src": "/arbeiten/moebelbau/13-schiebetuer-im-scheunentor-stil.jpg",
+  "alt": "Schiebetür im Scheunentor-Stil",
+  "category": "moebelbau",
+  "width": 1200,
+  "height": 1600,
+  "color": "#381808"
+ },
+ {
+  "src": "/arbeiten/moebelbau/14-kratzbaum-aus-birkenstaemmen.jpg",
+  "alt": "Kratzbaum aus Birkenstämmen",
+  "category": "moebelbau",
+  "width": 900,
+  "height": 1600,
+  "color": "#c8b8a8"
+ },
+ {
+  "src": "/arbeiten/moebelbau/15-treppe-mit-holzstufen-und-setzstufen.jpg",
+  "alt": "Treppe mit Holzstufen und Setzstufen",
+  "category": "moebelbau",
+  "width": 900,
+  "height": 1600,
+  "color": "#c8c8c8"
+ },
+ {
+  "src": "/arbeiten/moebelbau/16-bar-aus-dunklem-holz.jpg",
+  "alt": "Bar aus dunklem Holz",
+  "category": "moebelbau",
+  "width": 640,
+  "height": 480,
+  "color": "#e8f8f8"
+ },
+ {
+  "src": "/arbeiten/moebelbau/17-dekobalken-als-raumteiler.jpg",
+  "alt": "Dekobalken als Raumteiler",
+  "category": "moebelbau",
+  "width": 1706,
+  "height": 1280,
+  "color": "#281818"
+ },
+ {
+  "src": "/arbeiten/moebelbau/18-etagenbett-aus-massivholz.jpg",
+  "alt": "Etagenbett aus Massivholz",
+  "category": "moebelbau",
+  "width": 1820,
+  "height": 1023,
+  "color": "#787868"
+ },
+ {
+  "src": "/arbeiten/moebelbau/19-etagenbett-mit-treppe.jpg",
+  "alt": "Etagenbett mit Treppe",
+  "category": "moebelbau",
+  "width": 1820,
+  "height": 1023,
+  "color": "#585848"
+ },
+ {
+  "src": "/arbeiten/moebelbau/20-weinfass-als-tisch.jpg",
+  "alt": "Weinfass als Tisch",
+  "category": "moebelbau",
+  "width": 1023,
+  "height": 1820,
+  "color": "#080808"
+ },
+ {
+  "src": "/arbeiten/moebelbau/21-weisses-schuhregal-mit-faechern.jpg",
+  "alt": "Weißes Schuhregal mit Fächern",
+  "category": "moebelbau",
+  "width": 612,
+  "height": 816,
+  "color": "#e8e8d8"
+ },
+ {
+  "src": "/arbeiten/moebelbau/22-podest-mit-ausziehbarem-bett.jpg",
+  "alt": "Podest mit ausziehbarem Bett",
+  "category": "moebelbau",
+  "width": 1280,
+  "height": 720,
+  "color": "#f8f8f8"
+ },
+ {
+  "src": "/arbeiten/moebelbau/23-bett-mit-dunklem-holzrahmen.jpg",
+  "alt": "Bett mit dunklem Holzrahmen",
+  "category": "moebelbau",
+  "width": 1280,
+  "height": 960,
+  "color": "#080808"
+ },
+ {
+  "src": "/arbeiten/moebelbau/24-bettgestell-aus-hellem-massivholz.jpg",
+  "alt": "Bettgestell aus hellem Massivholz",
+  "category": "moebelbau",
+  "width": 1820,
+  "height": 1023,
+  "color": "#987858"
+ },
+ {
+  "src": "/arbeiten/moebelbau/25-bett-mit-kopfteil-aus-holzbrettern.jpg",
+  "alt": "Bett mit Kopfteil aus Holzbrettern",
+  "category": "moebelbau",
+  "width": 1820,
+  "height": 1023,
+  "color": "#b8b8b8"
+ },
+ {
+  "src": "/arbeiten/moebelbau/26-dunkles-faecherregal.jpg",
+  "alt": "Dunkles Fächerregal",
+  "category": "moebelbau",
+  "width": 612,
+  "height": 816,
+  "color": "#281818"
+ },
+ {
+  "src": "/arbeiten/moebelbau/27-bett-mit-bettschueben.jpg",
+  "alt": "Bett mit Bettschüben",
+  "category": "moebelbau",
+  "width": 950,
+  "height": 1280,
+  "color": "#281818"
+ },
+ {
+  "src": "/arbeiten/moebelbau/28-europalettenbett.jpg",
+  "alt": "Europalettenbett",
+  "category": "moebelbau",
+  "width": 1338,
+  "height": 957,
+  "color": "#382808"
+ },
+ {
+  "src": "/arbeiten/moebelbau/29-schuhregal-aus-holz.jpg",
+  "alt": "Schuhregal aus Holz",
+  "category": "moebelbau",
+  "width": 1280,
+  "height": 720,
+  "color": "#f8f8f8"
+ },
+ {
+  "src": "/arbeiten/moebelbau/30-fahrrad-wandhalterung-aus-holz.jpg",
+  "alt": "Fahrrad-Wandhalterung aus Holz",
+  "category": "moebelbau",
+  "width": 540,
+  "height": 960,
+  "color": "#a8a8a8"
+ },
+ {
+  "src": "/arbeiten/moebelbau/31-schreibtisch-aus-paletten.jpg",
+  "alt": "Schreibtisch aus Paletten",
+  "category": "moebelbau",
+  "width": 964,
+  "height": 1010,
+  "color": "#080808"
+ },
+ {
+  "src": "/arbeiten/moebelbau/32-rustikaler-klapptisch.jpg",
+  "alt": "Rustikaler Klapptisch",
+  "category": "moebelbau",
+  "width": 960,
+  "height": 540,
+  "color": "#181808"
+ },
+ {
+  "src": "/arbeiten/moebelbau/33-schuhregal-aus-holz.jpg",
+  "alt": "Schuhregal aus Holz",
+  "category": "moebelbau",
+  "width": 540,
+  "height": 960,
+  "color": "#080808"
+ },
+ {
+  "src": "/arbeiten/moebelbau/34-kleine-kommode-aus-holz.jpg",
+  "alt": "Kleine Kommode aus Holz",
+  "category": "moebelbau",
+  "width": 1023,
+  "height": 1820,
+  "color": "#a8b8a8"
+ },
+ {
+  "src": "/arbeiten/moebelbau/35-schuhschrank-mit-garderobe.jpg",
+  "alt": "Schuhschrank mit Garderobe",
+  "category": "moebelbau",
+  "width": 720,
+  "height": 1280,
+  "color": "#b8a898"
+ },
+ {
+  "src": "/arbeiten/moebelbau/36-europalettenbett.jpg",
+  "alt": "Europalettenbett",
+  "category": "moebelbau",
+  "width": 719,
+  "height": 1280,
+  "color": "#181818"
+ },
+ {
+  "src": "/arbeiten/moebelbau/37-schuhregal-aus-paletten.jpg",
+  "alt": "Schuhregal aus Paletten",
+  "category": "moebelbau",
+  "width": 1600,
+  "height": 1200,
+  "color": "#885838"
+ },
+ {
+  "src": "/arbeiten/moebelbau/38-bar-mit-barhockern.jpg",
+  "alt": "Bar mit Barhockern",
+  "category": "moebelbau",
+  "width": 1344,
+  "height": 760,
+  "color": "#88a8b8"
+ },
+ {
+  "src": "/arbeiten/moebelbau/39-obstkisten-schuhregal.jpg",
+  "alt": "Obstkisten-Schuhregal",
+  "category": "moebelbau",
+  "width": 898,
+  "height": 1600,
+  "color": "#080808"
+ },
+ {
+  "src": "/arbeiten/moebelbau/40-tv-board.jpg",
+  "alt": "TV-Board",
+  "category": "moebelbau",
+  "width": 2000,
+  "height": 1125,
+  "color": "#080808"
+ },
+ {
+  "src": "/arbeiten/moebelbau/41-hohes-schuhregal-aus-paletten.jpg",
+  "alt": "Hohes Schuhregal aus Paletten",
+  "category": "moebelbau",
+  "width": 900,
+  "height": 1600,
+  "color": "#886848"
+ },
+ {
+  "src": "/arbeiten/moebelbau/42-zwei-nachttische-mit-weisser-platte.jpg",
+  "alt": "Zwei Nachttische mit weißer Platte",
+  "category": "moebelbau",
+  "width": 2000,
+  "height": 1125,
+  "color": "#080808"
+ },
+ {
+  "src": "/arbeiten/moebelbau/43-weisses-regal-mit-weinfaechern.jpg",
+  "alt": "Weißes Regal mit Weinfächern",
+  "category": "moebelbau",
+  "width": 1125,
+  "height": 2000,
+  "color": "#989898"
+ },
+ {
+  "src": "/arbeiten/moebelbau/44-doppelbett-aus-massivholz.jpg",
+  "alt": "Doppelbett aus Massivholz",
+  "category": "moebelbau",
+  "width": 960,
+  "height": 1280,
+  "color": "#c89878"
+ },
+ {
+  "src": "/arbeiten/moebelbau/45-wandverkleidung-aus-rohen-holzbrettern.jpg",
+  "alt": "Wandverkleidung aus rohen Holzbrettern",
+  "category": "moebelbau",
+  "width": 1032,
+  "height": 774,
+  "color": "#888888"
+ },
+ {
+  "src": "/arbeiten/moebelbau/46-kleines-weinregal-aus-holz.jpg",
+  "alt": "Kleines Weinregal aus Holz",
+  "category": "moebelbau",
+  "width": 528,
+  "height": 960,
+  "color": "#d8d8d8"
+ },
+ {
+  "src": "/arbeiten/moebelbau/47-waschtischunterschrank-in-weiss.jpg",
+  "alt": "Waschtischunterschrank in Weiß",
+  "category": "moebelbau",
+  "width": 885,
+  "height": 902,
+  "color": "#281808"
+ },
+ {
+  "src": "/arbeiten/moebelbau/48-couchtisch-aus-obstkisten-mit-glasplatte.jpg",
+  "alt": "Couchtisch aus Obstkisten mit Glasplatte",
+  "category": "moebelbau",
+  "width": 256,
+  "height": 256,
+  "color": "#f8f8f8"
+ },
+ {
+  "src": "/arbeiten/moebelbau/49-regal-aus-obstkisten.jpg",
+  "alt": "Regal aus Obstkisten",
+  "category": "moebelbau",
+  "width": 960,
+  "height": 540,
+  "color": "#281818"
+ },
+ {
+  "src": "/arbeiten/moebelbau/50-bettgestell-aus-massiven-balken.jpg",
+  "alt": "Bettgestell aus massiven Balken",
+  "category": "moebelbau",
+  "width": 1024,
+  "height": 768,
+  "color": "#382818"
+ },
+ {
+  "src": "/arbeiten/moebelbau/51-sideboard-in-vintage-optik-mit-beleuchtung.jpg",
+  "alt": "Sideboard in Vintage-Optik mit Beleuchtung",
+  "category": "moebelbau",
+  "width": 1600,
+  "height": 1200,
+  "color": "#a8a898"
+ },
+ {
+  "src": "/arbeiten/moebelbau/52-bettecke-mit-angesetzter-ablage.jpg",
+  "alt": "Bettecke mit angesetzter Ablage",
+  "category": "moebelbau",
+  "width": 899,
+  "height": 1599,
+  "color": "#d8c8b8"
+ },
+ {
+  "src": "/arbeiten/moebelbau/53-regal-aus-obstkisten.jpg",
+  "alt": "Regal aus Obstkisten",
+  "category": "moebelbau",
+  "width": 1600,
+  "height": 1200,
+  "color": "#888888"
+ },
+ {
+  "src": "/arbeiten/moebelbau/54-treppe-mit-holzstufen.jpg",
+  "alt": "Treppe mit Holzstufen",
+  "category": "moebelbau",
+  "width": 900,
+  "height": 1600,
+  "color": "#181808"
+ },
+ {
+  "src": "/arbeiten/moebelbau/55-ausgebautes-dachgeschoss-mit-holzbalken.jpg",
+  "alt": "Ausgebautes Dachgeschoss mit Holzbalken",
+  "category": "moebelbau",
+  "width": 777,
+  "height": 1600,
+  "color": "#684828"
+ },
+ {
+  "src": "/arbeiten/moebelbau/56-garderobe-mit-spiegel-und-schuhbank.jpg",
+  "alt": "Garderobe mit Spiegel und Schuhbank",
+  "category": "moebelbau",
+  "width": 1200,
+  "height": 1600,
+  "color": "#e8e8e8"
+ },
+ {
+  "src": "/arbeiten/moebelbau/57-hochebene-mit-treppe-im-innenausbau.jpg",
+  "alt": "Hochebene mit Treppe im Innenausbau",
+  "category": "moebelbau",
+  "width": 1125,
+  "height": 2000,
+  "color": "#786868"
+ },
+ {
+  "src": "/arbeiten/moebelbau/58-nachttisch-aus-massivholz.jpg",
+  "alt": "Nachttisch aus Massivholz",
+  "category": "moebelbau",
+  "width": 768,
+  "height": 1024,
+  "color": "#684828"
+ },
+ {
+  "src": "/arbeiten/moebelbau/59-weisse-schiebetuer-mit-glaseinsatz.jpg",
+  "alt": "Weiße Schiebetür mit Glaseinsatz",
+  "category": "moebelbau",
+  "width": 1200,
+  "height": 1600,
+  "color": "#787878"
+ },
+ {
+  "src": "/arbeiten/moebelbau/60-offener-kleiderschrank-mit-schubladen.jpg",
+  "alt": "Offener Kleiderschrank mit Schubladen",
+  "category": "moebelbau",
+  "width": 1200,
+  "height": 1600,
+  "color": "#888888"
+ },
+ {
+  "src": "/arbeiten/moebelbau/61-hochbett-mit-arbeitsplatz-darunter.jpg",
+  "alt": "Hochbett mit Arbeitsplatz darunter",
+  "category": "moebelbau",
+  "width": 1200,
+  "height": 1600,
+  "color": "#786858"
+ },
+ {
+  "src": "/arbeiten/moebelbau/62-hochbettgestell-aus-kantholz.jpg",
+  "alt": "Hochbettgestell aus Kantholz",
+  "category": "moebelbau",
+  "width": 2000,
+  "height": 1125,
+  "color": "#787868"
+ },
+ {
+  "src": "/arbeiten/moebelbau/63-rampe-aus-holz-vor-einer-tuer.jpg",
+  "alt": "Rampe aus Holz vor einer Tür",
+  "category": "moebelbau",
+  "width": 901,
+  "height": 1600,
+  "color": "#989898"
+ },
+ {
+  "src": "/arbeiten/moebelbau/64-holzkasten-mit-gewoelbtem-dach-auf-einem-gestell.jpg",
+  "alt": "Holzkasten mit gewölbtem Dach auf einem Gestell",
+  "category": "moebelbau",
+  "width": 1125,
+  "height": 2000,
+  "color": "#989898"
+ },
+ {
+  "src": "/arbeiten/moebelbau/65-kopfteil-aus-rustikalen-holzbohlen.jpg",
+  "alt": "Kopfteil aus rustikalen Holzbohlen",
+  "category": "moebelbau",
+  "width": 2000,
+  "height": 1500,
+  "color": "#8898a8"
+ },
+ {
+  "src": "/arbeiten/moebelbau/66-nachttisch-mit-weissem-aufsatz.jpg",
+  "alt": "Nachttisch mit weißem Aufsatz",
+  "category": "moebelbau",
+  "width": 960,
+  "height": 1280,
+  "color": "#885838"
+ },
+ {
+  "src": "/arbeiten/moebelbau/67-podestbett-unter-der-dachschraege.jpg",
+  "alt": "Podestbett unter der Dachschräge",
+  "category": "moebelbau",
+  "width": 1024,
+  "height": 1024,
+  "color": "#989898"
+ },
+ {
+  "src": "/arbeiten/moebelbau/68-hochbett-mit-leiter.jpg",
+  "alt": "Hochbett mit Leiter",
+  "category": "moebelbau",
+  "width": 834,
+  "height": 1024,
+  "color": "#d8b878"
+ },
+ {
+  "src": "/arbeiten/moebelbau/69-schmale-wandkonsole-mit-schublade.jpg",
+  "alt": "Schmale Wandkonsole mit Schublade",
+  "category": "moebelbau",
+  "width": 1200,
+  "height": 1600,
+  "color": "#787868"
+ },
+ {
+  "src": "/arbeiten/moebelbau/70-waschtischunterschrank-aus-holz.jpg",
+  "alt": "Waschtischunterschrank aus Holz",
+  "category": "moebelbau",
+  "width": 1200,
+  "height": 1600,
+  "color": "#a8a898"
+ },
+ {
+  "src": "/arbeiten/ueber-mich/pergola.jpg",
+  "alt": "Pergola aus Holzbalken vor einem gelben Wohnhaus",
+  "category": "portrait",
+  "width": 1086,
+  "height": 589,
+  "color": "#d8c888"
+ }
+]
