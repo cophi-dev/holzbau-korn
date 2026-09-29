@@ -88,6 +88,10 @@ body {
     transform: none;
   }
 
+  .hero-fade {
+    animation: fade-up 1s var(--ease-calm) 0.15s both;
+  }
+
   .fade-in-late {
     animation: fade-up 0.7s var(--ease-calm) both;
     animation-delay: var(--reveal-delay, 0ms);
