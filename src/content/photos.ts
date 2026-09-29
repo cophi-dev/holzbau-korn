@@ -1,6 +1,6 @@
 import data from "./photos.json";
 
-export type PhotoCategory = "holzbau" | "moebelbau" | "portrait";
+export type PhotoCategory = "holzbau" | "moebelbau" | "hero" | "about";
 
 export type Photo = {
   src: string;
@@ -22,5 +22,6 @@ function single(category: PhotoCategory): Photo {
   return photo;
 }
 
-export const portraitPhoto = single("portrait");
+export const heroPhoto = single("hero");
+export const aboutPhoto = single("about");
 export const ogPhoto = { src: "/og.jpg", width: 1200, height: 630, alt: holzbauPhotos[0].alt };

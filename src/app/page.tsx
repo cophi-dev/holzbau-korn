@@ -1,8 +1,7 @@
 import Image from "next/image";
 import { Gallery } from "@/components/Gallery";
-import { TrussIllustration } from "@/components/TrussIllustration";
 import { Arrow, CallButton, Container, SectionHead } from "@/components/ui";
-import { holzbauPhotos, moebelbauPhotos, ogPhoto, portraitPhoto } from "@/content/photos";
+import { aboutPhoto, heroPhoto, holzbauPhotos, moebelbauPhotos, ogPhoto } from "@/content/photos";
 import { business, serviceGroups, SITE_URL } from "@/content/site";
 
 const jsonLd = {
@@ -71,7 +70,19 @@ function Hero() {
           </div>
         </div>
         <div className="col-span-4 md:col-span-5">
-          <TrussIllustration className="mx-auto block h-auto w-full max-w-[420px] md:max-w-none" />
+          <div
+            className="hero-fade relative aspect-[4/3] overflow-hidden md:aspect-[4/5]"
+            style={{ backgroundColor: heroPhoto.color }}
+          >
+            <Image
+              src={heroPhoto.src}
+              alt={heroPhoto.alt}
+              fill
+              preload
+              sizes="(min-width: 1200px) 450px, (min-width: 768px) 40vw, 100vw"
+              className="object-cover object-[22%_50%] md:object-[40%_50%]"
+            />
+          </div>
         </div>
       </Container>
     </section>
@@ -103,13 +114,13 @@ function About() {
     <section id="ueber-mich" aria-labelledby="ueber-mich-titel" className="border-t border-line bg-paper-deep/60 py-16 md:py-24">
       <Container className="grid grid-cols-4 gap-x-5 gap-y-10 md:grid-cols-12 md:gap-x-6">
         <div className="col-span-4 md:col-span-5" data-reveal>
-          <div className="relative aspect-[4/5] overflow-hidden" style={{ backgroundColor: portraitPhoto.color }}>
+          <div className="relative aspect-[4/5] overflow-hidden" style={{ backgroundColor: aboutPhoto.color }}>
             <Image
-              src={portraitPhoto.src}
-              alt={portraitPhoto.alt}
+              src={aboutPhoto.src}
+              alt={aboutPhoto.alt}
               fill
               sizes="(min-width: 1200px) 460px, (min-width: 768px) 40vw, 100vw"
-              className="object-cover object-[34%_50%]"
+              className="object-cover"
             />
           </div>
         </div>

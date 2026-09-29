@@ -18,13 +18,13 @@
   "file": "holzbau/02-grosse-terrassenueberdachung-aus-holz.jpg"
  },
  {
-  "id": "i3bd2f420fc94c456",
+  "id": "i41d5ebee81021c64",
   "version": "1737888878",
   "ext": "jpg",
   "rotate": false,
   "category": "holzbau",
-  "alt": "Holztragwerk mit Kopfbändern in einem Innenraum",
-  "file": "holzbau/03-holztragwerk-mit-kopfbaendern-in-einem-innenraum.jpg"
+  "alt": "Gartenpavillon von innen: sichtbare Dachkonstruktion aus Holz",
+  "file": "holzbau/03-gartenpavillon-von-innen-sichtbare-dachkonstrukt.jpg"
  },
  {
   "id": "i0a4184cc113e814c",
@@ -54,13 +54,13 @@
   "file": "holzbau/06-gartenhaus-mit-holzfassade-und-flachdach.jpg"
  },
  {
-  "id": "i41d5ebee81021c64",
+  "id": "i58ea1f56ea3c9e5b",
   "version": "1737888878",
   "ext": "jpg",
   "rotate": false,
   "category": "holzbau",
-  "alt": "Gartenpavillon von innen: sichtbare Dachkonstruktion aus Holz",
-  "file": "holzbau/07-gartenpavillon-von-innen-sichtbare-dachkonstrukt.jpg"
+  "alt": "Weiße Pergola mit geschwungenen Kopfbändern",
+  "file": "holzbau/07-weisse-pergola-mit-geschwungenen-kopfbaendern.jpg"
  },
  {
   "id": "i222b87934885d5bb",
@@ -72,13 +72,13 @@
   "file": "holzbau/08-hauseingang-mit-holzverkleidung-und-vordach.jpg"
  },
  {
-  "id": "i58ea1f56ea3c9e5b",
+  "id": "i6e0a3b879000dcd2",
   "version": "1737888878",
   "ext": "jpg",
   "rotate": false,
   "category": "holzbau",
-  "alt": "Weiße Pergola mit geschwungenen Kopfbändern",
-  "file": "holzbau/09-weisse-pergola-mit-geschwungenen-kopfbaendern.jpg"
+  "alt": "Einlattung des Daches an einem Fachwerkhaus",
+  "file": "holzbau/09-einlattung-des-daches-an-einem-fachwerkhaus.jpg"
  },
  {
   "id": "i119d6c1328f29bfd",
@@ -180,22 +180,13 @@
   "file": "holzbau/20-fahrradschuppen-mit-stuelpschalung.jpg"
  },
  {
-  "id": "i6e0a3b879000dcd2",
-  "version": "1737888878",
-  "ext": "jpg",
-  "rotate": false,
-  "category": "holzbau",
-  "alt": "Einlattung des Daches an einem Fachwerkhaus",
-  "file": "holzbau/21-einlattung-des-daches-an-einem-fachwerkhaus.jpg"
- },
- {
   "id": "id5925ef842a77f03",
   "version": "1737888878",
   "ext": "jpg",
   "rotate": false,
   "category": "holzbau",
   "alt": "Gerätehaus aus Holz",
-  "file": "holzbau/22-geraetehaus-aus-holz.jpg"
+  "file": "holzbau/21-geraetehaus-aus-holz.jpg"
  },
  {
   "id": "if8dfb9eac2ffe12f",
@@ -204,7 +195,7 @@
   "rotate": false,
   "category": "holzbau",
   "alt": "Terrasse aus Holzdielen im Garten",
-  "file": "holzbau/23-terrasse-aus-holzdielen-im-garten.jpg"
+  "file": "holzbau/22-terrasse-aus-holzdielen-im-garten.jpg"
  },
  {
   "id": "i1d3294470214bde3",
@@ -213,7 +204,7 @@
   "rotate": false,
   "category": "holzbau",
   "alt": "Terrassentreppe aus Holz",
-  "file": "holzbau/24-terrassentreppe-aus-holz.jpg"
+  "file": "holzbau/23-terrassentreppe-aus-holz.jpg"
  },
  {
   "id": "i9821198460671403",
@@ -222,7 +213,7 @@
   "rotate": false,
   "category": "holzbau",
   "alt": "Fensterladen aus Holz",
-  "file": "holzbau/25-fensterladen-aus-holz.jpg"
+  "file": "holzbau/24-fensterladen-aus-holz.jpg"
  },
  {
   "id": "ia9b3b6baf1877be8",
@@ -231,7 +222,7 @@
   "rotate": false,
   "category": "holzbau",
   "alt": "Türvordach aus Holz über einem Hauseingang",
-  "file": "holzbau/26-tuervordach-aus-holz-ueber-einem-hauseingang.jpg"
+  "file": "holzbau/25-tuervordach-aus-holz-ueber-einem-hauseingang.jpg"
  },
  {
   "id": "icbf31eaa25b23f4f",
@@ -240,7 +231,7 @@
   "rotate": false,
   "category": "holzbau",
   "alt": "Balkenlage mit Dämmung zwischen den Balken",
-  "file": "holzbau/27-balkenlage-mit-daemmung-zwischen-den-balken.jpg"
+  "file": "holzbau/26-balkenlage-mit-daemmung-zwischen-den-balken.jpg"
  },
  {
   "id": "i6885d5d6644707cd",
@@ -249,7 +240,7 @@
   "rotate": false,
   "category": "holzbau",
   "alt": "Vordach mit VSG-Glas",
-  "file": "holzbau/28-vordach-mit-vsg-glas.jpg"
+  "file": "holzbau/27-vordach-mit-vsg-glas.jpg"
  },
  {
   "id": "ib259dc3e2b6ce02f",
@@ -258,7 +249,7 @@
   "rotate": true,
   "category": "holzbau",
   "alt": "Kellerverschlag aus Holzlatten",
-  "file": "holzbau/29-kellerverschlag-aus-holzlatten.jpg"
+  "file": "holzbau/28-kellerverschlag-aus-holzlatten.jpg"
  },
  {
   "id": "i986d1420b111bc00",
@@ -267,7 +258,7 @@
   "rotate": false,
   "category": "holzbau",
   "alt": "Hochterrasse aus Holz mit Treppe",
-  "file": "holzbau/30-hochterrasse-aus-holz-mit-treppe.jpg"
+  "file": "holzbau/29-hochterrasse-aus-holz-mit-treppe.jpg"
  },
  {
   "id": "i479d0dd9701f67ce",
@@ -276,7 +267,7 @@
   "rotate": false,
   "category": "holzbau",
   "alt": "Hochterrasse aus Holz mit Geländer",
-  "file": "holzbau/31-hochterrasse-aus-holz-mit-gelaender.jpg"
+  "file": "holzbau/30-hochterrasse-aus-holz-mit-gelaender.jpg"
  },
  {
   "id": "i1e1349e577491c33",
@@ -285,7 +276,7 @@
   "rotate": true,
   "category": "holzbau",
   "alt": "Treppe aus Holz",
-  "file": "holzbau/32-treppe-aus-holz.jpg"
+  "file": "holzbau/31-treppe-aus-holz.jpg"
  },
  {
   "id": "i34e7d009058b8010",
@@ -294,7 +285,7 @@
   "rotate": false,
   "category": "holzbau",
   "alt": "Weiße Holzüberdachung vor einer Garage",
-  "file": "holzbau/33-weisse-holzueberdachung-vor-einer-garage.jpg"
+  "file": "holzbau/32-weisse-holzueberdachung-vor-einer-garage.jpg"
  },
  {
   "id": "i28e957191db53eff",
@@ -303,7 +294,7 @@
   "rotate": false,
   "category": "holzbau",
   "alt": "Pergola aus Holz im Garten",
-  "file": "holzbau/34-pergola-aus-holz-im-garten.jpg"
+  "file": "holzbau/33-pergola-aus-holz-im-garten.jpg"
  },
  {
   "id": "i04e166dce94e9fa3",
@@ -312,7 +303,7 @@
   "rotate": false,
   "category": "holzbau",
   "alt": "Gartentor aus Holzlatten",
-  "file": "holzbau/35-gartentor-aus-holzlatten.jpg"
+  "file": "holzbau/34-gartentor-aus-holzlatten.jpg"
  },
  {
   "id": "i024c919f78c7f5c7",
@@ -321,7 +312,7 @@
   "rotate": false,
   "category": "holzbau",
   "alt": "Überdachte Hochterrasse an einem Fachwerkhaus",
-  "file": "holzbau/36-ueberdachte-hochterrasse-an-einem-fachwerkhaus.jpg"
+  "file": "holzbau/35-ueberdachte-hochterrasse-an-einem-fachwerkhaus.jpg"
  },
  {
   "id": "i3e27f97140aab9db",
@@ -330,7 +321,7 @@
   "rotate": false,
   "category": "holzbau",
   "alt": "Pergola aus dunklen Holzbalken",
-  "file": "holzbau/37-pergola-aus-dunklen-holzbalken.jpg"
+  "file": "holzbau/36-pergola-aus-dunklen-holzbalken.jpg"
  },
  {
   "id": "i02ec5008d7c58b7f",
@@ -339,7 +330,7 @@
   "rotate": false,
   "category": "holzbau",
   "alt": "Holzständerwand beim Innenausbau",
-  "file": "holzbau/38-holzstaenderwand-beim-innenausbau.jpg"
+  "file": "holzbau/37-holzstaenderwand-beim-innenausbau.jpg"
  },
  {
   "id": "if4b0ca4f25203bee",
@@ -348,7 +339,7 @@
   "rotate": false,
   "category": "holzbau",
   "alt": "Weiße Terrassenüberdachung mit Glasdach",
-  "file": "holzbau/39-weisse-terrassenueberdachung-mit-glasdach.jpg"
+  "file": "holzbau/38-weisse-terrassenueberdachung-mit-glasdach.jpg"
  },
  {
   "id": "i09533dea93f637ff",
@@ -357,7 +348,7 @@
   "rotate": false,
   "category": "holzbau",
   "alt": "Weiße Terrassenüberdachung an einem Einfamilienhaus",
-  "file": "holzbau/40-weisse-terrassenueberdachung-an-einem-einfamilie.jpg"
+  "file": "holzbau/39-weisse-terrassenueberdachung-an-einem-einfamilie.jpg"
  },
  {
   "id": "ie6bc8634e331ab3d",
@@ -366,7 +357,7 @@
   "rotate": false,
   "category": "holzbau",
   "alt": "Weiße Terrassenüberdachung über einem Sitzplatz",
-  "file": "holzbau/41-weisse-terrassenueberdachung-ueber-einem-sitzpla.jpg"
+  "file": "holzbau/40-weisse-terrassenueberdachung-ueber-einem-sitzpla.jpg"
  },
  {
   "id": "if219668e9c28c084",
@@ -375,7 +366,7 @@
   "rotate": false,
   "category": "holzbau",
   "alt": "Holzterrasse auf einer Dachterrasse",
-  "file": "holzbau/42-holzterrasse-auf-einer-dachterrasse.jpg"
+  "file": "holzbau/41-holzterrasse-auf-einer-dachterrasse.jpg"
  },
  {
   "id": "ia9888d2fe8e80048",
@@ -384,7 +375,7 @@
   "rotate": false,
   "category": "holzbau",
   "alt": "Terrassendielen und Unterkonstruktion im Garten",
-  "file": "holzbau/43-terrassendielen-und-unterkonstruktion-im-garten.jpg"
+  "file": "holzbau/42-terrassendielen-und-unterkonstruktion-im-garten.jpg"
  },
  {
   "id": "i3bf765410844306f",
@@ -393,7 +384,7 @@
   "rotate": false,
   "category": "holzbau",
   "alt": "Weiße Terrassenüberdachung an einem gelben Haus",
-  "file": "holzbau/44-weisse-terrassenueberdachung-an-einem-gelben-hau.jpg"
+  "file": "holzbau/43-weisse-terrassenueberdachung-an-einem-gelben-hau.jpg"
  },
  {
   "id": "i6fc77b841c57f3e2",
@@ -402,7 +393,7 @@
   "rotate": false,
   "category": "holzbau",
   "alt": "Dachüberstand mit Holzschalung",
-  "file": "holzbau/45-dachueberstand-mit-holzschalung.jpg"
+  "file": "holzbau/44-dachueberstand-mit-holzschalung.jpg"
  },
  {
   "id": "ifb6cb78c361e0719",
@@ -411,7 +402,7 @@
   "rotate": false,
   "category": "holzbau",
   "alt": "Sichtschutzzaun aus Holz",
-  "file": "holzbau/46-sichtschutzzaun-aus-holz.jpg"
+  "file": "holzbau/45-sichtschutzzaun-aus-holz.jpg"
  },
  {
   "id": "i62c8977d8c8efff8",
@@ -420,7 +411,7 @@
   "rotate": false,
   "category": "holzbau",
   "alt": "Unterkonstruktion aus Holzbalken im Aufbau",
-  "file": "holzbau/47-unterkonstruktion-aus-holzbalken-im-aufbau.jpg"
+  "file": "holzbau/46-unterkonstruktion-aus-holzbalken-im-aufbau.jpg"
  },
  {
   "id": "i04e0c05fe6e5619f",
@@ -429,7 +420,7 @@
   "rotate": false,
   "category": "holzbau",
   "alt": "Hell gestrichenes Gerätehaus mit Tür und Fenster",
-  "file": "holzbau/48-hell-gestrichenes-geraetehaus-mit-tuer-und-fenst.jpg"
+  "file": "holzbau/47-hell-gestrichenes-geraetehaus-mit-tuer-und-fenst.jpg"
  },
  {
   "id": "i15f6ef8cb7fc1448",
@@ -438,7 +429,7 @@
   "rotate": false,
   "category": "holzbau",
   "alt": "Holztor zwischen zwei Hauswänden",
-  "file": "holzbau/49-holztor-zwischen-zwei-hauswaenden.jpg"
+  "file": "holzbau/48-holztor-zwischen-zwei-hauswaenden.jpg"
  },
  {
   "id": "i3e9cc4d363d24a1a",
@@ -447,7 +438,7 @@
   "rotate": false,
   "category": "holzbau",
   "alt": "Terrassenüberdachung aus Holz vor einem Einfamilienhaus",
-  "file": "holzbau/50-terrassenueberdachung-aus-holz-vor-einem-einfami.jpg"
+  "file": "holzbau/49-terrassenueberdachung-aus-holz-vor-einem-einfami.jpg"
  },
  {
   "id": "ib206033e33af3806",
@@ -456,7 +447,7 @@
   "rotate": false,
   "category": "holzbau",
   "alt": "Terrassenüberdachung mit dunklen Holzbalken",
-  "file": "holzbau/51-terrassenueberdachung-mit-dunklen-holzbalken.jpg"
+  "file": "holzbau/50-terrassenueberdachung-mit-dunklen-holzbalken.jpg"
  },
  {
   "id": "i72aba366dc00d7f0",
@@ -465,7 +456,7 @@
   "rotate": false,
   "category": "holzbau",
   "alt": "Schuppen mit grauer Holzverkleidung",
-  "file": "holzbau/52-schuppen-mit-grauer-holzverkleidung.jpg"
+  "file": "holzbau/51-schuppen-mit-grauer-holzverkleidung.jpg"
  },
  {
   "id": "i0b7704ce41608f9c",
@@ -474,7 +465,7 @@
   "rotate": false,
   "category": "holzbau",
   "alt": "Unterstand mit grau verkleideter Seitenwand",
-  "file": "holzbau/53-unterstand-mit-grau-verkleideter-seitenwand.jpg"
+  "file": "holzbau/52-unterstand-mit-grau-verkleideter-seitenwand.jpg"
  },
  {
   "id": "ie157c8395bf2e04b",
@@ -483,7 +474,7 @@
   "rotate": false,
   "category": "holzbau",
   "alt": "Zweiflügeliges graues Holztor in einer Hofmauer",
-  "file": "holzbau/54-zweifluegeliges-graues-holztor-in-einer-hofmauer.jpg"
+  "file": "holzbau/53-zweifluegeliges-graues-holztor-in-einer-hofmauer.jpg"
  },
  {
   "id": "i5cee471a443143fb",
@@ -492,7 +483,7 @@
   "rotate": false,
   "category": "holzbau",
   "alt": "Kleiner Anbau mit Pultdach",
-  "file": "holzbau/55-kleiner-anbau-mit-pultdach.jpg"
+  "file": "holzbau/54-kleiner-anbau-mit-pultdach.jpg"
  },
  {
   "id": "if0768cd4e5233fb3",
@@ -501,7 +492,7 @@
   "rotate": false,
   "category": "holzbau",
   "alt": "Freigelegte Deckenbalken bei der Sanierung",
-  "file": "holzbau/56-freigelegte-deckenbalken-bei-der-sanierung.jpg"
+  "file": "holzbau/55-freigelegte-deckenbalken-bei-der-sanierung.jpg"
  },
  {
   "id": "i1034e281d1eabe0b",
@@ -510,7 +501,7 @@
   "rotate": false,
   "category": "holzbau",
   "alt": "Terrassenüberdachung aus Holz im Garten",
-  "file": "holzbau/57-terrassenueberdachung-aus-holz-im-garten.jpg"
+  "file": "holzbau/56-terrassenueberdachung-aus-holz-im-garten.jpg"
  },
  {
   "id": "ibca0186854d585d7",
@@ -519,7 +510,7 @@
   "rotate": false,
   "category": "holzbau",
   "alt": "Weiße Terrassenüberdachung von unten",
-  "file": "holzbau/58-weisse-terrassenueberdachung-von-unten.jpg"
+  "file": "holzbau/57-weisse-terrassenueberdachung-von-unten.jpg"
  },
  {
   "id": "ibd5a8cf2673c8ac0",
@@ -528,7 +519,7 @@
   "rotate": false,
   "category": "holzbau",
   "alt": "Graue Terrassenüberdachung vor einem Einfamilienhaus",
-  "file": "holzbau/59-graue-terrassenueberdachung-vor-einem-einfamilie.jpg"
+  "file": "holzbau/58-graue-terrassenueberdachung-vor-einem-einfamilie.jpg"
  },
  {
   "id": "i66d63299a00e9a53",
@@ -537,7 +528,7 @@
   "rotate": false,
   "category": "holzbau",
   "alt": "Weiße Terrassenüberdachung: Pfosten und Sparren",
-  "file": "holzbau/60-weisse-terrassenueberdachung-pfosten-und-sparren.jpg"
+  "file": "holzbau/59-weisse-terrassenueberdachung-pfosten-und-sparren.jpg"
  },
  {
   "id": "iefd6de980e11daea",
@@ -546,7 +537,7 @@
   "rotate": false,
   "category": "holzbau",
   "alt": "Graue Terrassenüberdachung an einem Klinkerhaus",
-  "file": "holzbau/61-graue-terrassenueberdachung-an-einem-klinkerhaus.jpg"
+  "file": "holzbau/60-graue-terrassenueberdachung-an-einem-klinkerhaus.jpg"
  },
  {
   "id": "i83fe8c3cb20d16c6",
@@ -555,7 +546,7 @@
   "rotate": false,
   "category": "holzbau",
   "alt": "Terrassenüberdachung mit Glasdach, Blick von oben",
-  "file": "holzbau/62-terrassenueberdachung-mit-glasdach-blick-von-obe.jpg"
+  "file": "holzbau/61-terrassenueberdachung-mit-glasdach-blick-von-obe.jpg"
  },
  {
   "id": "ib771c6ae4a0212c0",
@@ -564,7 +555,7 @@
   "rotate": false,
   "category": "holzbau",
   "alt": "Weiße Terrassenüberdachung an einem Bungalow",
-  "file": "holzbau/63-weisse-terrassenueberdachung-an-einem-bungalow.jpg"
+  "file": "holzbau/62-weisse-terrassenueberdachung-an-einem-bungalow.jpg"
  },
  {
   "id": "i23dd242f10ebc999",
@@ -573,7 +564,7 @@
   "rotate": false,
   "category": "holzbau",
   "alt": "Terrassenüberdachung aus lasiertem Holz",
-  "file": "holzbau/64-terrassenueberdachung-aus-lasiertem-holz.jpg"
+  "file": "holzbau/63-terrassenueberdachung-aus-lasiertem-holz.jpg"
  },
  {
   "id": "i59fe1bf935393f72",
@@ -582,7 +573,7 @@
   "rotate": false,
   "category": "holzbau",
   "alt": "Veranda mit weißem Holzgeländer an einem Bungalow",
-  "file": "holzbau/65-veranda-mit-weissem-holzgelaender-an-einem-bunga.jpg"
+  "file": "holzbau/64-veranda-mit-weissem-holzgelaender-an-einem-bunga.jpg"
  },
  {
   "id": "idcd536122c0da29d",
@@ -591,7 +582,7 @@
   "rotate": false,
   "category": "holzbau",
   "alt": "Sichtschutzwand aus Holz im Garten",
-  "file": "holzbau/66-sichtschutzwand-aus-holz-im-garten.jpg"
+  "file": "holzbau/65-sichtschutzwand-aus-holz-im-garten.jpg"
  },
  {
   "id": "i8164f2a1045571ed",
@@ -600,7 +591,7 @@
   "rotate": false,
   "category": "holzbau",
   "alt": "Garage mit horizontaler Holzverkleidung",
-  "file": "holzbau/67-garage-mit-horizontaler-holzverkleidung.jpg"
+  "file": "holzbau/66-garage-mit-horizontaler-holzverkleidung.jpg"
  },
  {
   "id": "i0783ac6a9762bc24",
@@ -609,7 +600,7 @@
   "rotate": false,
   "category": "holzbau",
   "alt": "Weiße Terrassenüberdachung mit Glasdach",
-  "file": "holzbau/68-weisse-terrassenueberdachung-mit-glasdach.jpg"
+  "file": "holzbau/67-weisse-terrassenueberdachung-mit-glasdach.jpg"
  },
  {
   "id": "ib8620ba4b8ec206d",
@@ -618,7 +609,7 @@
   "rotate": false,
   "category": "holzbau",
   "alt": "Terrassenüberdachung mit Glasdach im Garten",
-  "file": "holzbau/69-terrassenueberdachung-mit-glasdach-im-garten.jpg"
+  "file": "holzbau/68-terrassenueberdachung-mit-glasdach-im-garten.jpg"
  },
  {
   "id": "ibf87ffed1cf48156",
@@ -627,7 +618,7 @@
   "rotate": false,
   "category": "holzbau",
   "alt": "Überdachung mit Glasdach über einer Terrasse",
-  "file": "holzbau/70-ueberdachung-mit-glasdach-ueber-einer-terrasse.jpg"
+  "file": "holzbau/69-ueberdachung-mit-glasdach-ueber-einer-terrasse.jpg"
  },
  {
   "id": "i5bc6cf185f3d15a8",
@@ -636,7 +627,7 @@
   "rotate": false,
   "category": "holzbau",
   "alt": "Terrassenüberdachung aus Holz mit Stegplatten",
-  "file": "holzbau/71-terrassenueberdachung-aus-holz-mit-stegplatten.jpg"
+  "file": "holzbau/70-terrassenueberdachung-aus-holz-mit-stegplatten.jpg"
  },
  {
   "id": "i40a96cb9af9c9aa4",
@@ -645,7 +636,7 @@
   "rotate": false,
   "category": "holzbau",
   "alt": "Unterstand mit Holzrückwand",
-  "file": "holzbau/72-unterstand-mit-holzrueckwand.jpg"
+  "file": "holzbau/71-unterstand-mit-holzrueckwand.jpg"
  },
  {
   "id": "i6e6a119e3f497901",
@@ -654,7 +645,7 @@
   "rotate": true,
   "category": "holzbau",
   "alt": "Brunnen mit Holzdach",
-  "file": "holzbau/73-brunnen-mit-holzdach.jpg"
+  "file": "holzbau/72-brunnen-mit-holzdach.jpg"
  },
  {
   "id": "i2766a51fa82459b4",
@@ -663,7 +654,7 @@
   "rotate": false,
   "category": "holzbau",
   "alt": "Holzterrasse vor einem Neubau",
-  "file": "holzbau/74-holzterrasse-vor-einem-neubau.jpg"
+  "file": "holzbau/73-holzterrasse-vor-einem-neubau.jpg"
  },
  {
   "id": "ia157eef872dd2d90",
@@ -672,7 +663,7 @@
   "rotate": false,
   "category": "holzbau",
   "alt": "Terrassenbelag auf einer Dachterrasse",
-  "file": "holzbau/75-terrassenbelag-auf-einer-dachterrasse.jpg"
+  "file": "holzbau/74-terrassenbelag-auf-einer-dachterrasse.jpg"
  },
  {
   "id": "ifff8d4beee1f89bd",
@@ -681,7 +672,7 @@
   "rotate": true,
   "category": "holzbau",
   "alt": "Holzterrasse, Detail der Dielen",
-  "file": "holzbau/76-holzterrasse-detail-der-dielen.jpg"
+  "file": "holzbau/75-holzterrasse-detail-der-dielen.jpg"
  },
  {
   "id": "iea8d0e5ccef4118d",
@@ -690,7 +681,7 @@
   "rotate": false,
   "category": "holzbau",
   "alt": "Garage mit Holzverkleidung",
-  "file": "holzbau/77-garage-mit-holzverkleidung.jpg"
+  "file": "holzbau/76-garage-mit-holzverkleidung.jpg"
  },
  {
   "id": "i5f271085a9b88535",
@@ -699,7 +690,7 @@
   "rotate": false,
   "category": "holzbau",
   "alt": "Gerätehaus aus Holz mit offener Tür",
-  "file": "holzbau/78-geraetehaus-aus-holz-mit-offener-tuer.jpg"
+  "file": "holzbau/77-geraetehaus-aus-holz-mit-offener-tuer.jpg"
  },
  {
   "id": "i01a6174d8fa44014",
@@ -708,7 +699,7 @@
   "rotate": false,
   "category": "holzbau",
   "alt": "Pergola aus Holz über einem Sitzplatz",
-  "file": "holzbau/79-pergola-aus-holz-ueber-einem-sitzplatz.jpg"
+  "file": "holzbau/78-pergola-aus-holz-ueber-einem-sitzplatz.jpg"
  },
  {
   "id": "i677f63b81f0bb522",
@@ -717,7 +708,7 @@
   "rotate": false,
   "category": "holzbau",
   "alt": "Anbau mit grauer Holzverkleidung und Dachüberstand",
-  "file": "holzbau/80-anbau-mit-grauer-holzverkleidung-und-dachueberst.jpg"
+  "file": "holzbau/79-anbau-mit-grauer-holzverkleidung-und-dachueberst.jpg"
  },
  {
   "id": "i8289a34d15ed5190",
@@ -726,7 +717,7 @@
   "rotate": true,
   "category": "holzbau",
   "alt": "Hell gestrichene Brettertür in einer Mauer",
-  "file": "holzbau/81-hell-gestrichene-brettertuer-in-einer-mauer.jpg"
+  "file": "holzbau/80-hell-gestrichene-brettertuer-in-einer-mauer.jpg"
  },
  {
   "id": "ib92f6872961eefe3",
@@ -735,7 +726,7 @@
   "rotate": false,
   "category": "holzbau",
   "alt": "Terrassenüberdachung mit Stegplatten über einer Holzterrasse",
-  "file": "holzbau/82-terrassenueberdachung-mit-stegplatten-ueber-eine.jpg"
+  "file": "holzbau/81-terrassenueberdachung-mit-stegplatten-ueber-eine.jpg"
  },
  {
   "id": "if0fcc5aba97ee7b2",
@@ -744,7 +735,7 @@
   "rotate": false,
   "category": "holzbau",
   "alt": "Graue Terrassenüberdachung im Garten",
-  "file": "holzbau/83-graue-terrassenueberdachung-im-garten.jpg"
+  "file": "holzbau/82-graue-terrassenueberdachung-im-garten.jpg"
  },
  {
   "id": "i9021e17546e9d77a",
@@ -753,7 +744,7 @@
   "rotate": false,
   "category": "holzbau",
   "alt": "Weißes Hoftor mit Zaun",
-  "file": "holzbau/84-weisses-hoftor-mit-zaun.jpg"
+  "file": "holzbau/83-weisses-hoftor-mit-zaun.jpg"
  },
  {
   "id": "i0d63ce55f6d6b265",
@@ -762,7 +753,7 @@
   "rotate": false,
   "category": "holzbau",
   "alt": "Carport mit grün gestrichenen Holzstützen",
-  "file": "holzbau/85-carport-mit-gruen-gestrichenen-holzstuetzen.jpg"
+  "file": "holzbau/84-carport-mit-gruen-gestrichenen-holzstuetzen.jpg"
  },
  {
   "id": "i1f62ef7c5d5c5e70",
@@ -771,7 +762,7 @@
   "rotate": false,
   "category": "holzbau",
   "alt": "Sichtschutzwand aus Holz auf einer Dachterrasse",
-  "file": "holzbau/86-sichtschutzwand-aus-holz-auf-einer-dachterrasse.jpg"
+  "file": "holzbau/85-sichtschutzwand-aus-holz-auf-einer-dachterrasse.jpg"
  },
  {
   "id": "i25cb11c9e2930f2d",
@@ -780,7 +771,7 @@
   "rotate": false,
   "category": "holzbau",
   "alt": "Überdachte Veranda mit Holzgeländer",
-  "file": "holzbau/87-ueberdachte-veranda-mit-holzgelaender.jpg"
+  "file": "holzbau/86-ueberdachte-veranda-mit-holzgelaender.jpg"
  },
  {
   "id": "i85a720f4c3fe97b7",
@@ -789,7 +780,7 @@
   "rotate": false,
   "category": "holzbau",
   "alt": "Gartenhaus mit Holzfassade und rundem Fenster",
-  "file": "holzbau/88-gartenhaus-mit-holzfassade-und-rundem-fenster.jpg"
+  "file": "holzbau/87-gartenhaus-mit-holzfassade-und-rundem-fenster.jpg"
  },
  {
   "id": "ib533854514a1bd01",
@@ -798,7 +789,7 @@
   "rotate": false,
   "category": "holzbau",
   "alt": "Carport mit Geräteraum",
-  "file": "holzbau/89-carport-mit-geraeteraum.jpg"
+  "file": "holzbau/88-carport-mit-geraeteraum.jpg"
  },
  {
   "id": "ic44e5f02155223be",
@@ -807,7 +798,7 @@
   "rotate": false,
   "category": "holzbau",
   "alt": "Balkon auf einer Holzkonstruktion",
-  "file": "holzbau/90-balkon-auf-einer-holzkonstruktion.jpg"
+  "file": "holzbau/89-balkon-auf-einer-holzkonstruktion.jpg"
  },
  {
   "id": "id274e3ab584bf90f",
@@ -816,7 +807,7 @@
   "rotate": false,
   "category": "holzbau",
   "alt": "Überdachung für einen Wohnwagen",
-  "file": "holzbau/91-ueberdachung-fuer-einen-wohnwagen.jpg"
+  "file": "holzbau/90-ueberdachung-fuer-einen-wohnwagen.jpg"
  },
  {
   "id": "ie7b9d06287784e1a",
@@ -825,7 +816,7 @@
   "rotate": false,
   "category": "holzbau",
   "alt": "Holzterrasse auf Unterkonstruktion vor einem Haus",
-  "file": "holzbau/92-holzterrasse-auf-unterkonstruktion-vor-einem-hau.jpg"
+  "file": "holzbau/91-holzterrasse-auf-unterkonstruktion-vor-einem-hau.jpg"
  },
  {
   "id": "if79ec724d93265a1",
@@ -834,7 +825,7 @@
   "rotate": false,
   "category": "holzbau",
   "alt": "Lange Terrassenüberdachung an einer Hauswand",
-  "file": "holzbau/93-lange-terrassenueberdachung-an-einer-hauswand.jpg"
+  "file": "holzbau/92-lange-terrassenueberdachung-an-einer-hauswand.jpg"
  },
  {
   "id": "iff890d572b8f6160",
@@ -843,7 +834,7 @@
   "rotate": false,
   "category": "holzbau",
   "alt": "Gartenhaus mit Holzfassade",
-  "file": "holzbau/94-gartenhaus-mit-holzfassade.jpg"
+  "file": "holzbau/93-gartenhaus-mit-holzfassade.jpg"
  },
  {
   "id": "iff60d2a79809d17a",
@@ -1480,8 +1471,17 @@
   "version": "1778395570",
   "ext": "png",
   "rotate": false,
-  "category": "portrait",
-  "alt": "Pergola aus Holzbalken vor einem gelben Wohnhaus",
-  "file": "ueber-mich/pergola.jpg"
+  "category": "hero",
+  "alt": "Alexander Korn unter einer Pergola aus Holzbalken vor einem Wohnhaus",
+  "file": "hero/alexander-korn-pergola.jpg"
+ },
+ {
+  "id": "i3bd2f420fc94c456",
+  "version": "1737888878",
+  "ext": "jpg",
+  "rotate": false,
+  "category": "about",
+  "alt": "Holztragwerk mit Kopfbändern in einem Innenraum",
+  "file": "ueber-mich/holztragwerk-mit-kopfbaendern.jpg"
  }
 ]
