@@ -6,6 +6,8 @@ export function SiteFooter() {
   return (
     <footer className="border-t border-line bg-paper py-8 text-sm text-ink-soft">
       <Container className="flex flex-col gap-3 md:flex-row md:items-center md:justify-between md:gap-6">
+        {/* eslint-disable-next-line @next/next/no-img-element */}
+        <img src="/logo/korn-wortmarke.svg" alt={`${business.name} – Zimmerei, Möbelbau, Magdeburg`} className="block h-14 w-auto md:h-16" />
         <p className="text-ink">
           {business.name} ·{" "}
           <span className="whitespace-nowrap">

@@ -34,11 +34,8 @@ export function SiteHeader() {
     <header className="sticky top-0 z-40 border-b border-line/70 bg-paper/92 backdrop-blur-md">
       <Container className="flex h-16 items-center justify-between gap-6">
         <Link href="/" className="flex shrink-0 items-center" aria-label={`${business.name} – Startseite`} onClick={() => setOpen(false)}>
-          <picture>
-            <source media="(min-width: 768px)" srcSet="/logo/korn-wortmarke.svg" />
-            {/* eslint-disable-next-line @next/next/no-img-element */}
-            <img src="/logo/korn-wortmarke-kompakt.svg" alt={business.name} className="block h-8 w-auto md:h-11" />
-          </picture>
+          {/* eslint-disable-next-line @next/next/no-img-element */}
+          <img src="/logo/korn-wortmarke-kompakt.svg" alt={business.name} className="block h-8 w-auto md:h-10" />
         </Link>
 
         <nav aria-label="Hauptnavigation" className="hidden md:block">
