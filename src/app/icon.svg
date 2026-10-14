@@ -1,8 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
-  <rect width="64" height="64" fill="#f6f4ef"/>
-  <circle cx="32" cy="28" r="18" fill="#d9713a"/>
-  <g fill="none" stroke="#1c1b19" stroke-width="4">
-    <polygon points="8,46 32,22 56,46" stroke-linejoin="miter"/>
-    <line x1="32" y1="22" x2="32" y2="46"/>
-  </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64"><path fill="#1c1b19" d="M36.599999999999994 9h18.4v46.0h-18.4v-20.24h6.4399999999999995v-5.52h-6.4399999999999995z"/><path fill="#d9713a" d="M9 20.5h24.38v8.739999999999998h9.2v5.52h-9.2v8.739999999999998h-24.38z"/></svg>
