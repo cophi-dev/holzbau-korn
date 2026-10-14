@@ -48,13 +48,13 @@ function Hero() {
         <div className="col-span-4 md:col-span-7">
           <p className="flex items-center gap-3 text-sm font-medium tracking-wide text-ink-soft">
             <span className="h-[2px] w-8 bg-accent" aria-hidden="true" />
-            Zimmerer · Holzbau · Möbelbau
+            Zimmerer aus Leidenschaft · Magdeburg
           </p>
           <h1
             id="hero-title"
             className="mt-6 text-[clamp(2.35rem,5.6vw,4.5rem)] leading-[1.02] font-semibold tracking-[-0.035em] text-balance"
           >
-            Zimmerer aus Leidenschaft <span className="text-ink-soft">– für Holzbau und Möbel aus Massivholz in Magdeburg.</span>
+            Holzbau und Möbel aus Massivholz in Magdeburg.
           </h1>
           <p className="mt-6 max-w-[46ch] text-lg leading-relaxed text-ink-soft md:text-xl">
             Ich bin {business.owner}. Seit 2015 führe ich den Familienbetrieb weiter – schon mein Vater war
@@ -71,7 +71,7 @@ function Hero() {
         </div>
         <div className="col-span-4 md:col-span-5">
           <div
-            className="hero-fade relative aspect-[4/3] overflow-hidden md:aspect-[4/5]"
+            className="relative aspect-[4/3] overflow-hidden md:aspect-[4/5]"
             style={{ backgroundColor: heroPhoto.color }}
           >
             <Image
@@ -80,7 +80,7 @@ function Hero() {
               fill
               preload
               sizes="(min-width: 1200px) 450px, (min-width: 768px) 40vw, 100vw"
-              className="object-cover object-[22%_50%] md:object-[40%_50%]"
+              className="object-cover object-center"
             />
           </div>
         </div>

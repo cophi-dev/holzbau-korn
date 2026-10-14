@@ -1304,19 +1304,19 @@
   "color": "#a8a898"
  },
  {
-  "src": "/arbeiten/hero/alexander-korn-pergola.jpg",
-  "alt": "Alexander Korn unter einer Pergola aus Holzbalken vor einem Wohnhaus",
+  "src": "/arbeiten/holzbau/03-gartenpavillon-von-innen-sichtbare-dachkonstrukt.jpg",
+  "alt": "Gartenpavillon von innen: sichtbare Dachkonstruktion aus Holz",
   "category": "hero",
+  "width": 1706,
+  "height": 1280,
+  "color": "#c87838"
+ },
+ {
+  "src": "/arbeiten/hero/alexander-korn-pergola.jpg",
+  "alt": "Alexander Korn vor einer seiner Holzkonstruktionen",
+  "category": "about",
   "width": 1086,
   "height": 589,
   "color": "#d8c888"
- },
- {
-  "src": "/arbeiten/ueber-mich/holztragwerk-mit-kopfbaendern.jpg",
-  "alt": "Holztragwerk mit Kopfbändern in einem Innenraum",
-  "category": "about",
-  "width": 1600,
-  "height": 1200,
-  "color": "#181818"
  }
 ]
